@@ -1,0 +1,11 @@
+.vs
+TypeNew.Common/bin
+TypeNew.Common/obj
+TypeNew.Data/bin
+TypeNew.Data/obj
+TypeNew.Presentation/bin
+TypeNew.Presentation/obj
+TypeNew.Repository/bin
+TypeNew.Repository/obj
+TypeNew.Services/bin
+TypeNew.Services/obj
